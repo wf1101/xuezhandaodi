@@ -1,4 +1,4 @@
-This hackathon is to explore the mobile game development and make a simple game for fun.
+This hackathon project is to explore the mobile game development and make a simple game for fun.
 
 The flow is: 
 
@@ -26,4 +26,4 @@ There are a few difficulties:
 
 
 
-in this case, game will never end. 47 or 5 needs more than 3 lines to connect a target. 
+In this case, game will never end. 47 or 5 needs more than 3 lines to connect a target. 
